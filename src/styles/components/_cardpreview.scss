@@ -29,8 +29,6 @@
     background-color:#b3b3fc71;
     background-size: cover;
     height: 80vh;
-    // border-bottom: 3px solid rgba(168, 164, 164, 0.5);
-    // border-top: 3px solid rgba(168, 164, 164, 0.5);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,7 +40,6 @@
         margin-bottom: rem(21);
         border-radius: rem(6);
         padding: rem(50) 0 rem(80);
-        // border: 3px solid rgba(168, 164, 164, 0.5);
         border-radius: rem(8);
     }
         
@@ -50,7 +47,6 @@
         height: rem(400);
         width: rem(270);
         border-radius: rem(8);
-        // background-color: rgba(248, 84, 85, 0.5);
         display: flex;
         flex-direction: column;
         align-items: center;
